@@ -1,16 +1,11 @@
-# menu_row
+# Menu Row
 
-A new Flutter project.
+Proyek Flutter ini berfokus pada implementasi **Menu Row**, yaitu bar navigasi horizontal yang menampilkan berbagai opsi atau tindakan yang dapat diakses oleh pengguna. Fitur ini memudahkan pengguna dalam mengakses fungsi-fungsi penting dalam aplikasi dengan cara yang sederhana dan efisien.
 
-## Getting Started
+## Fitur Utama
+- **Navigasi Horizontal:** Aplikasi ini menggunakan widget Row untuk menampilkan menu yang terdiri dari beberapa item, memberikan akses cepat ke fitur-fitur yang sering digunakan.
+- **Desain yang Menarik:** Menu Row dirancang dengan tampilan yang menarik, memungkinkan pengguna untuk dengan mudah memahami fungsi setiap item menu.
+- **Interaksi Pengguna:** Setiap item dalam menu dapat dihubungkan dengan aksi tertentu, seperti navigasi ke halaman lain atau pemanggilan fungsi tertentu dalam aplikasi.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Tujuan Proyek
+Proyek ini bertujuan untuk memberikan contoh bagaimana membuat **Menu Row** di aplikasi Flutter. Dengan fitur ini, pengguna dapat mempelajari cara menampilkan berbagai opsi dalam format yang terstruktur dan mudah diakses. Penggunaan Menu Row membantu dalam menciptakan antarmuka pengguna yang lebih bersih dan terorganisir, memberikan pengalaman yang lebih baik bagi pengguna.
