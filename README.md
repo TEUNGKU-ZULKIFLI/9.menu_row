@@ -9,3 +9,8 @@ Proyek Flutter ini berfokus pada implementasi **Menu Row**, yaitu bar navigasi h
 
 ### Tujuan Proyek
 Proyek ini bertujuan untuk memberikan contoh bagaimana membuat **Menu Row** di aplikasi Flutter. Dengan fitur ini, pengguna dapat mempelajari cara menampilkan berbagai opsi dalam format yang terstruktur dan mudah diakses. Penggunaan Menu Row membantu dalam menciptakan antarmuka pengguna yang lebih bersih dan terorganisir, memberikan pengalaman yang lebih baik bagi pengguna.
+
+# SHOWCASE
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/009.1.png" width="200px"/>
+</div>
